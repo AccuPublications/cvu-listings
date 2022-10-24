@@ -1,0 +1,8 @@
+( Lots of errors
+        LOAD    0
+        STORE   STACK
+PRINT   OUT
+        STORE   PRINT
+        PRINT
+        HALT
+        

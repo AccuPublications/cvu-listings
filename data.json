@@ -1,0 +1,1397 @@
+{
+  "measurements" :
+  [
+    {
+      "date" : "13 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "14 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "15 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "16 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "17 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "18 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "19 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "20 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "21 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "22 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "23 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "24 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "25 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "26 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "27 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "28 February 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "1 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "2 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "3 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "4 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "5 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "6 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "7 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "8 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "9 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "10 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "11 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "12 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "13 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "14 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "15 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "16 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "17 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "18 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "19 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "20 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "21 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "22 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "23 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "24 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "25 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "26 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "27 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "28 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "29 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    },
+    {
+      "date" : "30 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 118,
+          "diastolic" : 79
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "31 March 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 117,
+          "diastolic" : 67
+        },
+        "second" :
+        {
+          "systolic" : 116,
+          "diastolic" : 78
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 116,
+          "diastolic" : 77
+        },
+        "second" :
+        {
+          "systolic" : 115,
+          "diastolic" : 69
+        }
+      }
+    },
+    {
+      "date" : "1 April 2025",
+      "morning":
+      {
+        "first" :
+        {
+          "systolic" : 114,
+          "diastolic" : 72
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 74
+        }
+      },
+      "evening" :
+      {
+        "first" :
+        {
+          "systolic" : 110,
+          "diastolic" : 75
+        },
+        "second" :
+        {
+          "systolic" : 119,
+          "diastolic" : 78
+        }
+      }
+    }
+  ]
+}
